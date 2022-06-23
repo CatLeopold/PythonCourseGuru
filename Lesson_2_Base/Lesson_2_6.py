@@ -1,0 +1,7 @@
+mystr1 = int(input("Введите 1е число:"))
+print("Вы ввели 1е число", mystr1)
+mystr2 = int(input("Введите 2е число:"))
+print("Вы ввели 2е число", mystr2)
+mystr3 = int(input("Введите 3е число:"))
+print("Вы ввели 3е число", mystr3)
+print("Среднее арифметическое этих чисел=", (mystr1 + mystr2 + mystr3) / 3)

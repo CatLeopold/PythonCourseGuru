@@ -1,0 +1,15 @@
+x = 5
+y = 2
+print("x=", x)
+print("y=", y)
+print("x+y=", x+y)
+print("x-y=", x-y)
+print("x*y=", x*y)
+print("x%y=", x % y)
+print("x//y=", x//y)
+print("x**y=", x**y)
+print("x+y=", x+y)
+print("((15 * 10 – 20) / 2) + 14 * 10 + (-45)=", ((15 * 10 - 20) / 2) + 14 * 10 + (-45))
+print("bin(x)=", bin(x))    # двоичная
+print("hex(15)=", hex(15))  # шестнадцатиричная
+print("oct(7)=", oct(7))    # восьмеричная
